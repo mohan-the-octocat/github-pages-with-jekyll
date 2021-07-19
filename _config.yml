@@ -1,6 +1,7 @@
 title: Mohan Blogs for the World
 author: Mohan
 email: mohan-the-octocat@github.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
    Something amazing is about to happen here, so watch!
    
